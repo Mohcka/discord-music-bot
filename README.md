@@ -11,4 +11,4 @@
   "yt-api-token": "youryoutubetoken"
 }
 ```
-4. Once the bot is running in your server enter `$play [your favtorite song here]` and jam out with you and your friends
+1. Once the bot is running in your server enter `$play [your favtorite song here]` and jam out
