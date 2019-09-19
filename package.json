@@ -1,0 +1,24 @@
+{
+  "name": "am",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./buster.js",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "libsodium-wrappers": "^0.7.5",
+    "node-opus": "^0.3.2",
+    "opusscript": "0.0.6",
+    "prettier": "^1.18.2",
+    "uws": "^100.0.1",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^0.29.5"
+  }
+}
